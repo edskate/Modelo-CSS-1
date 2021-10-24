@@ -1,0 +1,18 @@
+body{
+    box-shadow: inset 3px 4px 5px;
+    width: 50%;
+    height: 50px;
+    margin: 7%;
+    padding: 5%;
+   background: url();
+}
+.box1{
+    text-align:center;
+ } 
+ .box2{
+     text-align: center;
+     border: 3px solid;
+ } 
+ .box3{
+     border-radius:1px 00ff00;
+ }
